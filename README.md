@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Steve
 
 <!--
 **mastevb/mastevb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a 5th year BS/MS student in Computer Science and Engineering at the University of Washington in Seattle.
+- 🌱 I'll be joining NVIDIA as a Software Engineer in July.
+- ⚡ I a Visual Studio Code extension developer, I'm currently working on [vscode-antimony](https://marketplace.visualstudio.com/items?itemName=stevem.vscode-antimony), the first language support library of Antimony.
